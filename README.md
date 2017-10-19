@@ -1,1 +1,1 @@
-# studiousme
+# Studious Me
