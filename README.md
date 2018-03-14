@@ -17,8 +17,21 @@ The Website - STUDIOUS ME also features free study resources:
 * EBOOKS
 * FREE ONLINE TEST
 
-### FRONTEND PLATFORM : HTML, CSS, JavaScript
-### BACKEND PLATFORM : PHP
+The Website has following facilities:
+#### User :
+-	Can Issue Books
+-	Can Download Various Study Materials
+#### Librarian:
+-	Can Add/Remove Books
+-	Can Remove Users
+-	Can Collect Fine
+-	Can Receive Books
+#### Admin :
+-	Can read and write information about any user  or librarian.
+-	Can read and write information about any book.
+
+#### FRONTEND PLATFORM : HTML, CSS, JavaScript
+#### BACKEND PLATFORM : PHP
 
 ## State Transition Diagram of the Website
 ![State Transition Diagram](https://s3.amazonaws.com/github-resources-apt/SM_FlowChart.png)
