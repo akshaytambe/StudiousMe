@@ -158,7 +158,6 @@ The general theme behind a database is to handle information as an integrated wh
 ### USER TABLE
 ![UserTab](https://s3.amazonaws.com/github-resources-apt/SM_User_Table.png)
 
-
 ## Benefits by using this Website:
 - User friendly interface
 - Fast access to database
