@@ -86,3 +86,30 @@ hold good.
 
 ### ADMIN - MEMBER DATABASE PAGE
 ![AdMemberDB](https://s3.amazonaws.com/github-resources-apt/SM_Admin_DB.png)
+
+### GUEST HOMEPAGE
+![GuestLanding](https://s3.amazonaws.com/github-resources-apt/SM_Guest_Landing.png)
+
+### STUDY RESOURCES - SYLLABUS PAGE
+![SRSP](https://s3.amazonaws.com/github-resources-apt/SM_syllabus.png)
+
+### STUDY RESOURCES - EBOOKS PAGE
+![Ebooks](https://s3.amazonaws.com/github-resources-apt/SM_Ebook_Sec.png)
+
+### STUDY RESOURCES - FREE ONLINE TEST PAGE
+![OnlineTest](https://s3.amazonaws.com/github-resources-apt/SM_Online_Test_Page.png)
+
+### LIBRARY DB
+![LibDB](https://s3.amazonaws.com/github-resources-apt/SM_Lib_DB.png)
+
+### ADMIN TABLE
+![ADMIN TABLE](https://s3.amazonaws.com/github-resources-apt/SM_Admin_Tab.png)
+
+### BOOK TABLE
+![BookDB](https://s3.amazonaws.com/github-resources-apt/SM_Book_Table.png)
+
+### ISSUE TABLE
+![IssueTab](https://s3.amazonaws.com/github-resources-apt/SM_Issue_Tab.png)
+
+### USER TABLE
+![UserTab](https://s3.amazonaws.com/github-resources-apt/SM_User_Table.png)
