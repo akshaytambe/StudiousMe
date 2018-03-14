@@ -17,8 +17,8 @@ The Website - STUDIOUS ME also features free study resources:
 * EBOOKS
 * FREE ONLINE TEST
 
-* FRONTEND PLATFORM : HTML, CSS, JavaScript
-* BACKEND PLATFORM : PHP
+### FRONTEND PLATFORM : HTML, CSS, JavaScript
+### BACKEND PLATFORM : PHP
 
 ## State Transition Diagram of the Website
 ![State Transition Diagram](https://s3.amazonaws.com/github-resources-apt/SM_FlowChart.png)
@@ -51,8 +51,38 @@ hold good.
 ### REGISTRATION PAGE
 ![Register](https://s3.amazonaws.com/github-resources-apt/SM_Register.png)
 
-### STUDENT LOGIN PAGE
+### STUDENT - LOGIN PAGE
 ![User Login](https://s3.amazonaws.com/github-resources-apt/SM_User_Login.png)
 
-### STUDENT LANDING HOMEPAGE:
+### STUDENT LANDING HOMEPAGE
+![StudentLanding](https://s3.amazonaws.com/github-resources-apt/SM_landing.png)
 
+### STUDENT - VIEW BOOKS PAGE
+![ViewBooks](https://s3.amazonaws.com/github-resources-apt/SM_ViewBooks.png)
+
+### STUDENT - MY ISSUE STATUS BOOKS PAGE
+![StudentIssueStatus](https://s3.amazonaws.com/github-resources-apt/SM_Issue.png)
+
+### STUDENT - PROFILE PAGE
+![StudentProfile](https://s3.amazonaws.com/github-resources-apt/SM_Profile.png)
+
+### ADMIN - LOGIN PAGE
+![AdLogin](https://s3.amazonaws.com/github-resources-apt/SM_Login.png)
+
+### ADMIN - HOMEPAGE
+![AdHome](https://s3.amazonaws.com/github-resources-apt/SM_Admin.png)
+
+### ADMIN -  BOOK DATABASE PAGE
+![AdBookDB](https://s3.amazonaws.com/github-resources-apt/SM_Book_Database.png)
+
+### ADMIN -  ADD NEW BOOK PAGE
+![AdNewBook](https://s3.amazonaws.com/github-resources-apt/SM_Add_Book.png)
+
+### ADMIN - ISSUE BOOK PAGE
+![AdIssue](https://s3.amazonaws.com/github-resources-apt/SM_Issue_Admin.png)
+
+### ADMIN - RETURN BOOK PAGE
+![AdReturnBook](https://s3.amazonaws.com/github-resources-apt/SM_Return_Book_Admin.png)
+
+### ADMIN - MEMBER DATABASE PAGE
+![AdMemberDB](https://s3.amazonaws.com/github-resources-apt/SM_Admin_DB.png)
