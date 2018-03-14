@@ -33,6 +33,26 @@ The Website has following facilities:
 #### FRONTEND PLATFORM : HTML, CSS, JavaScript
 #### BACKEND PLATFORM : PHP
 
+## Problem Statement
+The database will be designed using PHP and WAMP SERVER and implemented as required including all the features mentioned, both hardware and software.
+
+Will make use of the  HTML, CSS & JAVASCRIPTS languages and MPDF software. Also will make use of the online references available for developing programs in HTML and the scripting languages like, JavaScript.
+
+#### CONSTRAINTS:
+- The information of all the users must be stored in a database that is accessible by the Online Library System. 
+- The university information security system must be compatible with the Internet applications.
+- The Online Library System is connected to the university computer and is running all 24 hours a day. 
+- The users access the Online Library System from any computer that has Internet browsing capabilities and an Internet connection. 
+- The billing system is connected to the Online Library System and the database used by the billing system must be compatible with the interface of the Online Library System. 
+- The users must have their correct usernames and passwords to enter into the Online Library System.
+
+#### ASSUMPTIONS & DEPENDENCIES:
+- Users have sufficient knowledge of computers.
+- User is assumed to have basic knowledge of using Java.
+- User must be completely familiar with the database.
+- The Campus computer should have Internet connection and Internet server capabilities.
+- Users know the English language, as the user interface will be provided in English.
+
 ## State Transition Diagram of the Website
 ![State Transition Diagram](https://s3.amazonaws.com/github-resources-apt/SM_FlowChart.png)
 
@@ -112,6 +132,17 @@ hold good.
 ### STUDY RESOURCES - FREE ONLINE TEST PAGE
 ![OnlineTest](https://s3.amazonaws.com/github-resources-apt/SM_Online_Test_Page.png)
 
+## Database Design:
+The general theme behind a database is to handle information as an integrated whole. A database is a collection of interrelated data stored with minimum redundancy to serve many users quickly and effectively. After designing input and output, the analyst must concentrate on database design or how data should be organized around user requirements. The general objective is to make information access, easy quick, inexpensive and flexible for other users. During database design the following objectives are concerned:-
+- Controlled Redundancy
+- Data independence
+- Accurate and integrating
+- More information at low cost
+- Recovery from failure
+- Privacy and security
+- Performance
+- Ease of learning and use
+
 ### LIBRARY DB
 ![LibDB](https://s3.amazonaws.com/github-resources-apt/SM_Lib_DB.png)
 
@@ -126,3 +157,22 @@ hold good.
 
 ### USER TABLE
 ![UserTab](https://s3.amazonaws.com/github-resources-apt/SM_User_Table.png)
+
+
+## Benefits by using this Website:
+- User friendly interface
+- Fast access to database
+- Less error
+- More Storage Capacity
+- Search facility
+- Look and Feel Environment
+- Quick transaction
+- EXTRA feature of Study Resources
+- E-Receipt Facility
+- Cancellation Facility
+
+## Extensibility: 
+This system is extendable in ways that its original developers may not expect. The following principle enhances extensibility like hide data structure, avoid traversing multiple links or methods, avoid case statements on object type and distinguish public and private operations. 
+
+## Reusability: 
+Reusability is possible as and when require in this website. We can update it next version. Reusable software reduces design, coding and testing cost by amortizing effort over several designs. Reducing the amount of code also simplifies understanding, which increases the likelihood that the code is correct. We follow up both types of reusability: Sharing of newly written code within a project and reuse of previously written code on new projects.
