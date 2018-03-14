@@ -1,0 +1,160 @@
+body {
+		background-image: url("background.jpg");
+	    background-size: 1366px 768px;
+        background-repeat: repeat;
+
+}
+
+h1 {
+    font-family: Gill Sans, Verdana;
+	font-size: 60px;
+	color: #2266FF;
+}
+  
+#top
+{
+height:130px;
+border:0px;
+padding:10px;
+font-family:Gill Sans, Verdana;
+background-color:#2266ff
+}
+
+#left
+{
+ height:560px;
+ width:250px;
+ float:left;
+ border:0px;
+ padding:5px;
+ background-color:#2266ff;
+}
+
+#content
+{
+ height:500px;
+ width:72.75%;
+ float:right;
+}
+
+hr {
+  color: #000000;
+  background-color:#000000;
+  height:3px;
+  width: 100%;
+  border:none;
+}
+
+h1 {
+    font-family: Gill Sans, Verdana;
+	font-size: 60px;
+	color: #2266FF;
+}
+p{
+	font-family: 'Open Sans', Arial, Helvetica, sans-serif;
+	color: #FFFFFF;
+}
+
+#header
+{
+ height:170px;
+ padding:0px;
+ position:relative;
+}
+
+#footer {
+    color:black;
+    clear:both;
+    text-align:center;
+    padding:5px;
+    margin-top: 30px;	
+}
+
+#wrapper {
+		background-image: url("background.jpg");
+	    background-size: 1366px 768px;
+        background-repeat: repeat;
+		width:1313px;
+		margin:0;
+		padding:10px;
+		height:auto;
+	
+	}
+
+#dropdown
+{
+ height:50px;
+ width:750px;
+ float:right;
+ padding:0px;
+ bottom:0;
+ right:0;
+ position:absolute;
+}
+
+
+a:link, a:visited {
+    display: block;
+    font-weight: bold;
+    color: #000000;
+    background-color:transparent;
+    padding: 4px;
+    text-decoration: none;
+	color: white;
+}
+
+a:hover, a:active {
+    background-color:transparent;
+}
+
+
+ul {
+	  
+      list-style: none;
+	  padding: 0px;
+	  margin: 0px;
+	  
+	 }
+  ul li {
+          display:block;
+		  position: relative;
+		  float: left;
+		  border:0px solid black;
+		  width:148px;
+		  }
+  li ul {
+		  display: none;
+		}
+  ul li a {
+           display: block;
+		   background: Black;
+		   padding: 0px 0px 0px 0px;
+		   text-decoration: none;
+           color: White;
+		   height:42px;
+		   
+		   }
+  ul li a:hover 
+		{
+		background: #2266FF;
+		}
+  li:hover ul 
+		{
+		display: block; 
+		position: absolute;
+		}
+  li:hover li {
+		float: none;
+		}
+  li:hover a {
+		background: #333333;
+		}
+  li:hover li a:hover {
+		background: #2266FF;
+		}
+  #drop-nav li ul li 
+		{
+			border-top: 0px;
+			
+		}
+
