@@ -1,3 +1,5 @@
+[![Gitpod ready-to-code](https://img.shields.io/badge/Gitpod-ready--to--code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/akshaytambe/StudiousMe)
+
 # Studious Me - An Online Library Management System
 ![Website Logo](https://s3.amazonaws.com/github-resources-apt/Logo.png)
 The project titled Online Library Management System is Library management system for monitoring and controlling the transactions in a library .The project “Online Library Management System” is developed in HTML, CSS, JAVASCRIPT & PHP, which mainly focuses on basic operations in a library like adding new member, new books, and updating new information, searching books and members and facility to borrow and return books.
